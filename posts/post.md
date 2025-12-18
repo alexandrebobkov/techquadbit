@@ -1,15 +1,20 @@
-Discover new possibilities with the ESP32-C3 UNO Development Board.
-Unlock a world of innovative possibilities with the ESP32-C3 Breadboard Development Board. This versatile platform empowers developers to create cutting-edge applications, leveraging its advanced features and robust performance. Whether you're working on IoT projects, embedded systems, or automation tasks, the ESP32-C3 Development Board offers the flexibility, power and quick implementation needed to bring your ideas to life.
+# Discover new possibilities with the ESP32-C3 UNO Development Board.
+
+_Unlock a world of innovative possibilities with the ESP32-C3 Breadboard Development Board. This versatile platform empowers developers to create cutting-edge applications, leveraging its advanced features and robust performance. Whether you're working on IoT projects, embedded systems, or automation tasks, the ESP32-C3 Development Board offers the flexibility, power and quick implementation needed to bring your ideas to life._
+
 Explore its capabilities and push the boundaries of your creativity and technical expertise. https://gitea.techquadbit.net/alex/ESP32-C3_Breadboard-Adapter
-Key Features
-compact size; requires a very little space on a breadboard
-flash a firmware without external adapters as you work with your project
-supplies 3.3V or 5V to the breadboard power rails
-can be powered either by USB-C or external power supply
-GPIOs are arranged into 4 groups for easier identification
-on-board power and user-controlled LEDs
-on-board RESET and BOOT push-button switches
-Features and Specifications of the ESP32-C3 WROOM Module
+
+## Key Features
+
+  - compact size; requires a very little space on a breadboard
+  - flash a firmware without external adapters as you work with your project
+  - supplies 3.3V or 5V to the breadboard power rails can be powered either by USB-C or external power supply
+  - GPIOs are arranged into 4 groups for easier identification
+  - on-board power and user-controlled LEDs
+  - on-board RESET and BOOT push-button switches
+
+## Features and Specifications of the ESP32-C3 WROOM Module
+
 Core Components:
 Microprocessor: RISC-V® single-core 32-bit microprocessor, operating up to 160 MHz.
 Memory:
