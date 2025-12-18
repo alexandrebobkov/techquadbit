@@ -114,6 +114,7 @@ Reserved GPIOs and Pins
 
 
 
-I2C Pins
+## I2C Pins
+
 The schematic excerpt provided below illustrates the wiring configuration for the SDA and SCL lines. Specifically, the SDA line is connected to GPIO 8, while the SCL line is connected to GPIO 9 on the ESP32-C3 Wroom module.
 The image of the PCB board below depicts the physical locations of the SDA and SCL terminals.
